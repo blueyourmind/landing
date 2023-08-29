@@ -1,0 +1,23 @@
+.banner {
+  background-size: cover;
+  padding: 230px 0px;
+  background-position: center;
+}
+.banner h1 {
+  color:rgb(83, 79, 79)
+}
+.banner p {
+  color:rgb(132, 123, 123)
+}
+
+.container {
+  margin:auto;
+  width:1000px
+}
+.btn-primary {
+  background-color: rgb(255, 0, 0);
+  padding:18px 30px;
+  color:white;
+  border-radius:50px;
+  display:inline-block;
+}
